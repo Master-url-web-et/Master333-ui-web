@@ -1,4 +1,4 @@
-              - name: [ET.ENT](https://github.com/ETEnterprises1/ET.ENT/tree/main)
+/.jaon              - name: [ET.ENT](https://github.com/ETEnterprises1/ET.ENT/tree/main)
                 uses: 'code settings.yml'
             # Licence.yaml
 $ mkdir actions-runner && cd actions-runner
